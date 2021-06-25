@@ -1,4 +1,4 @@
-package com.digitechorg.java8.collectors;
+package com.digitechorg.java8.steamsolutions2;
 
 import java.util.*;
 import java.util.stream.Collectors;

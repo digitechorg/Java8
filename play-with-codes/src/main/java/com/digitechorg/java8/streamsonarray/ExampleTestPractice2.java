@@ -1,4 +1,4 @@
-package com.digitechorg.java8.reality;
+package com.digitechorg.java8.streamsonarray;
 
 import java.util.*;
 import java.util.function.Function;

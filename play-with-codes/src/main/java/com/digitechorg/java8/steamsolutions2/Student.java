@@ -1,4 +1,4 @@
-package com.digitechorg.java8.collectors;
+package com.digitechorg.java8.steamsolutions2;
 
 public class Student {
     String name;

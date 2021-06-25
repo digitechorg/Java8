@@ -1,4 +1,4 @@
-package com.digitechorg.java8.basics;
+package com.digitechorg.java8.streamsolutions1;
 
 import java.util.*;
 import java.util.function.BinaryOperator;
